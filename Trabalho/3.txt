@@ -1,0 +1,13 @@
+#Eluan de Vargas Marzola Cardoso e Victor Augusto Doim# 
+U
+4,9,0,2
+O,P
+I
+7,2,1,E
+M,E,K,1,2
+D
+78,69,1,4
+5,4,2,3
+C
+E,L,A
+E,L,E
